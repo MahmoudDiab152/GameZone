@@ -27,7 +27,7 @@ Game Zone is a CRUD (Create, Read, Update, Delete) MVC application developed usi
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mahmoudiab152/gamezone.git
+   git clone https://github.com/MahmoudDiab152/GameZone.git
    ```
 2. Navigate to the project directory:
    ```bash
