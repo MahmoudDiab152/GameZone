@@ -57,9 +57,6 @@ Game Zone is a CRUD (Create, Read, Update, Delete) MVC application developed usi
 - **Max Image Size:** Limits the maximum file size for uploaded images.
 - **Allowed Extensions:** Restricts the file types that can be uploaded (e.g., .jpg, .png).
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For any inquiries, please contact [mahmouddiab152@gmail.com].
 
